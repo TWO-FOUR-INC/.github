@@ -8,6 +8,6 @@
 ## 
 
  - [web](https://github.com/TWO-FOUR-INC/twofour-trunk) - Built with Laravel where you can interact with the community and access to user-like features.
-  - [arbiter](#) - TwoFour's Arbiter is a Node.js terminal app for hosting and managing TwoFour game servers.
+   - [arbiter](#) - TwoFour's Arbiter is a Node.js terminal app for hosting and managing TwoFour game servers.
 
  
