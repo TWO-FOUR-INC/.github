@@ -7,7 +7,7 @@
 
 ## 
 
- - [web](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) - Built with Laravel where you can interact with the community and access to user-like features.
- - [arbiter](https://github.com/matiassingers/awesome-readme) - TwoFour's Arbiter is a Node.js terminal app for hosting and managing TwoFour game servers.
+ - [web](https://github.com/TWO-FOUR-INC/twofour-trunk) - Built with Laravel where you can interact with the community and access to user-like features.
+ - [arbiter](#) - TwoFour's Arbiter is a Node.js terminal app for hosting and managing TwoFour game servers.
 
  
