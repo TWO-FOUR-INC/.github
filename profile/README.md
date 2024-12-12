@@ -1,5 +1,5 @@
 
-![Logo](https://rbxlam.com/Images/logohq.png)
+![Logo](/logohq.png)
 
 
 **TwoFour** is a community-driven project focused on replicating the legacy 2014/2016 **Roblox experience**. We're dedicated to recreating the nostalgic look and feel of the classic **Roblox** clients, complete with its iconic features and design.
